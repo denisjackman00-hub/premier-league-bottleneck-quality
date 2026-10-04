@@ -1,7 +1,4 @@
 # premier-league-bottleneck-quality
-Does a Premier League team win through its stars or its weakest regulars? Ten seasons (2015/16 to 2024/25) of player data in R. Squads' weak-link attacking quality (20th percentile) is the strongest predictor of points per game, worth about 12 points a season per standard deviation. UCD economics thesis.
-Bottleneck Quality and Persistent Dominance in the Premier League
-
 Do Premier League teams win because of their best players, or because their weakest regular players are good enough?
 
 This repository contains the paper and R code for my final-year economics research project at University College Dublin (ECON30620, supervised by Kevin Denny). It uses ten seasons of player-level data (2015/16 to 2024/25) to test two competing theories of team production: superstar theory and O-Ring (weak-link) theory. It also asks why the same clubs keep winning.
