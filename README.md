@@ -3,16 +3,12 @@ Do Premier League teams win because of their best players, or because their weak
 
 This repository contains the paper and R code for my final-year economics research project at University College Dublin (ECON30620, supervised by Kevin Denny). It uses ten seasons of player-level data (2015/16 to 2024/25) to test two competing theories of team production: superstar theory and O-Ring (weak-link) theory. It also asks why the same clubs keep winning.
 
-📄 Read the full paper
-
 Key findings
 A squad's weakest attacking regulars are the strongest predictor of results. A one-standard-deviation improvement in the 20th-percentile attacking player is associated with about +12 points over a season. That is roughly the gap between mid-table and the top-four race.
 The superstar effect disappears once you account for squad depth. On its own, the quality of a club's top three attackers predicts points. Put both measures in the same model and the superstar coefficient drops to 0.078 (p = 0.27), while the bottleneck coefficient stays at 0.292 (p < 0.01).
 Wages work mainly through squad quality. Wage bill alone explains 54% of the variation in points per game. Most of that relationship runs through the quality of the players those wages buy.
 Dominance persists because squad depth persists. About 80% of a club's points advantage carries over to the next season. Controlling for bottleneck quality cuts that persistence coefficient from 0.54 to 0.22.
 Richer clubs buy quality throughout the squad, not just at the top (sorting coefficient 0.024, p < 0.001). Money becomes squad depth, depth becomes points, and points bring in more money.
-
-Show Image
 
 Main results
 
